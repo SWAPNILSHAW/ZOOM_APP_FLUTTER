@@ -2,8 +2,6 @@
 
 A Zoom Clone that works seamlessly on Android & iOS, built with Flutter, Firebase, and Jitsi Meet for video services.
 
-![App Screenshot](https://example.com/screenshot.png) <!-- Replace with actual screenshot -->
-
 ## ✨ Features
 
 1. **🔑 Google Sign In**
@@ -67,6 +65,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📧 Contact
 
-Swapnil Shaw - [@swapnilshaw](https://twitter.com/swapnilshaw) - swapnilshaw@example.com
+Swapnil Shaw - [@swapnilshaw](https://twitter.com/ShawSwapnil) - swapnilshaw@example.com
 
 Project Link: [https://github.com/SWAPNILSHAW/ZOOM_APP_FLUTTER](https://github.com/SWAPNILSHAW/ZOOM_APP_FLUTTER)
